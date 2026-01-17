@@ -49,14 +49,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
-.password-btn{
-    width: 100%;
-    height: 100%;
-    cursor: pointer;
-    background: transparent;
-    border: none;
+.password-span{
     color: #45DA7C;
 }
